@@ -1,7 +1,7 @@
 # horisan
 
 </p>
-<p align="center"><a href="https://t.me/horimiya_family"><img src=https://telegra.ph/file/dead26bc824dd8603dd49.jpg"></a></p>
+<p align="center"><a href="https://t.me/horimiya_family"><img src="https://telegra.ph/file/dead26bc824dd8603dd49.jpg"></a></p>
 <p align="center">
 
 ##Credits✨
