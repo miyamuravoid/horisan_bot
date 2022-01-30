@@ -9,9 +9,9 @@ Horisan is anime theme bot to manage and handle your groups chats more efficient
 SaitamaRobot
 Lunabot
 
- ##OWNER
+ ##OWNER https://t.me/voidxtoxic
  
-
+ 
 ## How to setup/deploy horisan.
 
 ### Read these notes carefully before proceeding 
