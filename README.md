@@ -9,7 +9,7 @@ SaitamaRobot
 Lunabot
 
 
-## How to setup/deploy.
+## How to setup/deploy horisan.
 
 ### Read these notes carefully before proceeding 
  - Edit any mentions of @horisanbotsupport to your own support chat
